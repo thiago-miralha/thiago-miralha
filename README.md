@@ -54,7 +54,7 @@ Become a Java Backend Developer focused on building scalable and well-structured
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiago-miralha&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiago-miralha&layout=compact&theme=tokyonight&card_width=450" />
 </p>
 ---
 
