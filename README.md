@@ -56,7 +56,6 @@ Become a Java Backend Developer focused on building scalable and well-structured
 <p align="center">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiago-miralha&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
