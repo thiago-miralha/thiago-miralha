@@ -46,7 +46,7 @@ Become a Java Backend Developer focused on building scalable and well-structured
 
 ## 📊 GitHub Stats
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-miralha&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-miralha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
