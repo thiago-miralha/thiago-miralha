@@ -46,13 +46,13 @@ Become a Java Backend Developer focused on building scalable and well-structured
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-miralha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-miralha&show_icons=true&theme=default)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-miralha&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-miralha&layout=compact&theme=default)
 
 ---
 
