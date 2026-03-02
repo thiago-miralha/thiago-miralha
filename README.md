@@ -3,6 +3,7 @@
 💻 Backend Developer | Java & Spring Boot  
 ☕ Passionate about Backend Development  
 🚀 Seeking opportunities in Java Backend Development
+
 ---
 
 ## 🛠️ Tech Stack
