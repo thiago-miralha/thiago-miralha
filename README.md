@@ -31,11 +31,9 @@
 
 ## 📌 Featured Projects
 
-🔹 **Library API**  
-REST API for book management built with Spring Boot and MySQL.
-
-🔹 **Java Studies**  
-Repository containing Java exercises and OOP concepts.
+- 💊 Medicine API  
+REST API for medicine management built with Spring Boot, Spring Data JPA and MySQL.  
+Includes CRUD operations, layered architecture (Controller, Service, Repository) and DTO pattern.
 
 ---
 
